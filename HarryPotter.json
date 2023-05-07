@@ -1,0 +1,220 @@
+{
+  "info": {
+    "count": 826,
+    "pages": 42,
+    "next": "https://rickandmortyapi.com/api/character?page=2",
+    "prev": null
+  },
+  "results": [
+    {
+      "id": 1,
+      "name": "Harry Potter",
+      "status": "Alive",
+      "species": "Human",
+      "type": "",
+      "house": "Gryffindor",
+      "origin": {
+        "name": "Half-Blood",
+        "url": ""
+      },
+      "location": {
+        "name": "Valle de Godric",
+        "url": ""
+      },
+      "image": "https://ik.imagekit.io/hpapi/harry.jpg",
+      "episode": [
+      ],
+      "url": "",
+      "created": "31 de julio de 1980"
+    },
+    {
+      "id": 2,
+      "name": "Ronald Weasley",
+      "status": "Alive",
+      "species": "Human",
+      "type": "",
+      "house": "Gryffindor",
+      "origin": {
+        "name": "Pure-Blood",
+        "url": ""
+      },
+      "location": {
+        "name": "Unknown",
+        "url": ""
+      },
+      "image": "https://ik.imagekit.io/hpapi/ron.jpg",
+      "episode": [
+      ],
+      "url": "",
+      "created": "1 de marzo de 1980"
+    },
+    {
+      "id": 3,
+      "name": "Hermione Granger",
+      "status": "Alive",
+      "species": "Human",
+      "type": "",
+      "house": "Gryffindor",
+      "origin": {
+        "name": "Muggle",
+        "url": ""
+      },
+      "location": {
+        "name": "Unknown",
+        "url": ""
+      },
+      "image": "https://ik.imagekit.io/hpapi/hermione.jpeg",
+      "episode": [
+      ],
+      "url": "",
+      "created": "19-09-1979"
+    },
+    {
+      "id": 4,
+      "name": "Albus Dumbledore",
+      "status": "Death",
+      "species": "Human",
+      "type": "",
+      "house": "Gryffindor",
+      "origin": {
+        "name": "Half-Blood",
+        "url": ""
+      },
+      "location": {
+        "name": "Unknown",
+        "url": ""
+      },
+      "image": "https://static.wikia.nocookie.net/esharrypotter/images/c/ce/Albus_Dumbledore.PNG",
+      "episode": [
+      ],
+      "url": "",
+      "created": "1881"
+    },
+    {
+      "id": 5,
+      "name": "Dobby",
+      "status": "Death",
+      "species": "House-Elf",
+      "type": "",
+      "house": "Na",
+      "origin": {
+        "name": "Unknown",
+        "url": ""
+      },
+      "location": {
+        "name": "Unknown",
+        "url": ""
+      },
+      "image": "https://static.wikia.nocookie.net/esharrypotter/images/2/2d/Dobby_el_elfo.PNG",
+      "episode": [
+      ],
+      "url": "",
+      "created": "Unknown"
+    },
+    {
+      "id": 6,
+      "name": "Lord Voldemort",
+      "status": "Death",
+      "species": "Human",
+      "type": "",
+      "house": "Slytherin",
+      "origin": {
+        "name": "Half-Blood",
+        "url": ""
+      },
+      "location": {
+        "name": "Unknown",
+        "url": ""
+      },
+      "image": "https://static.wikia.nocookie.net/esharrypotter/images/1/1c/Tomdh.jpg",
+      "episode": [
+      ],
+      "url": "",
+      "created": "31-12-1926"
+    },
+    {
+      "id": 7,
+      "name": "Griphook",
+      "status": "Death",
+      "species": "Goblin",
+      "type": "",
+      "house": "Na",
+      "origin": {
+        "name": "Unknown",
+        "url": ""
+      },
+      "location": {
+        "name": "Unknown",
+        "url": ""
+      },
+      "image": "https://static.wikia.nocookie.net/esharrypotter/images/e/e6/Griphook_profile.png",
+      "episode": [
+      ],
+      "url": "",
+      "created": "Unknown"
+    },
+    {
+      "id": 8,
+      "name": "Hedwig",
+      "status": "Death",
+      "species": "Owl",
+      "type": "",
+      "house": "Na",
+      "origin": {
+        "name": "White owl",
+        "url": ""
+      },
+      "location": {
+        "name": "Unknown",
+        "url": ""
+      },
+      "image": "https://static.wikia.nocookie.net/esharrypotter/images/1/19/Hedwig.jpg",
+      "episode": [
+      ],
+      "url": "",
+      "created": "Unknown"
+    },
+    {
+      "id": 9,
+      "name": "Minerva McGonagall",
+      "status": "Alive",
+      "species": "Human",
+      "type": "",
+      "house": "Gryffindor",
+      "origin": {
+        "name": "Half-Blood",
+        "url": ""
+      },
+      "location": {
+        "name": "Unknown",
+        "url": ""
+      },
+      "image": "https://ik.imagekit.io/hpapi/mcgonagall.jpg",
+      "episode": [
+      ],
+      "url": "",
+      "created": "04-10-1925"
+    },
+    {
+      "id": 10,
+      "name": "Draco Malfoy",
+      "status": "Alive",
+      "species": "Human",
+      "type": "",
+      "house": "Slytherin",
+      "origin": {
+        "name": "Pure-Blood",
+        "url": ""
+      },
+      "location": {
+        "name": "Unknown",
+        "url": ""
+      },
+      "image": "https://ik.imagekit.io/hpapi/draco.jpg",
+      "episode": [
+      ],
+      "url": "",
+      "created": "05-06-1980"
+    }
+  ]
+}
